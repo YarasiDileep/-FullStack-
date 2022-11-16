@@ -1,0 +1,16 @@
+h1{
+    background-color: red;
+}
+h2{
+    background-color: hotpink;
+}
+h3{
+    background-color: aqua;
+}
+.Additional{
+    background-color: chartreuse;
+}
+#Identical{
+    background-color: rgb(5, 5, 5);
+    color: rgb(247, 241, 242);
+}

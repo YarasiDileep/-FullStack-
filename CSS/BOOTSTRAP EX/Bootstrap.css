@@ -1,0 +1,32 @@
+.position{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    
+    color: white;
+}
+.bg{
+    background-color: black;
+    height: 100px;
+    display: flex;
+}
+.memu{
+    width: 100px;
+    float: left;
+    height: 70px;
+}
+ul{
+    float: right;
+    display: flex;
+    text-align: right;
+}
+ul li{
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+ul li a{
+    color: aqua;
+}
