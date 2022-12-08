@@ -1,14 +1,20 @@
-/*function display(){
-    document.getElementById(btn1).style.backgroundColor = 'red';     
-}*/
-
 const btn = document.getElementById('btn');
 
-btn.addEventListener('dblclick', 
-    function ondblclick() {
+btn.addEventListener('click', 
+    function onclick() {
         btn.style.backgroundColor = 'orange';
         btn.style.color = 'white';
 });
+
+c/*onst abc =document.getElementById('abc');
+
+abc.addEventListener('focus',
+    function onfocus(){
+        abc.style.backgroundColor =' green';
+        abc.style.color = 'white';
+    }
+)*/
+
 
 
 
