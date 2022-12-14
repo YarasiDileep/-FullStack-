@@ -2,7 +2,7 @@
     console.log('Addition');
 }
 add() */
-let add = ( )=>{
+let add = ()=>{
     console.log('Addition');
 }
 add()
